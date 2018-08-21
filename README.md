@@ -1,2 +1,2 @@
 # Robotics
-Robotics projects in ROS
+Academic robotic projects in ROS
